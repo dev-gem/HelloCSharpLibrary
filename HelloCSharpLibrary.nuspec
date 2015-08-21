@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>HelloCSharpLibrary</id>
+    <version>0.0.0</version>
+    <authors>Lou Parslow</authors>
+    <owners>Lou Parslow</owners>
+    <licenseUrl>http://http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>C# Library to support common development tasks</description>
+    <releaseNotes></releaseNotes>
+    <copyright>Copyright 2015</copyright>
+    <tags>rake</tags>
+  </metadata>
+  <files>
+    <file src="lib/**/*.dll"/>
+    <file src="LICENSE"/>
+  </files>
+</package>
